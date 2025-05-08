@@ -25,7 +25,7 @@ The **PathWiseAI** is a multi-agent intelligent travel planning system that help
 ---
 
 ## 🚀 Website Images
-![Alt Text](assets/your-image.png)
+![Alt Text](/img.png)
 ![Alt Text](assets/your-image.png)
 ![Alt Text](assets/your-image.png)
 
