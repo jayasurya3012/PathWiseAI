@@ -16,10 +16,8 @@ The **PathWiseAI** is a multi-agent intelligent travel planning system that help
 
 ## ⚙️ Technologies Used
 
-- **React** & **Tailwind CSS** – Modern UI framework and styling
-- **Node.js** – Backend logic and API orchestration
-- **OpenAI GPT APIs** – Natural language understanding and generation
-- **Map APIs** (e.g., Google Maps, Leaflet) – Route and POI data
+- **Streamlit** – Modern UI framework and styling
+- **Groq APIs** – Natural language understanding and generation
 - **Multi-Agent Architecture** – Modular and scalable AI design
 
 ---
