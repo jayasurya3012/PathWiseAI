@@ -26,9 +26,6 @@ The **PathWiseAI** is a multi-agent intelligent travel planning system that help
 
 ## 🚀 Demo
 
-Coming soon – A full web-based travel assistant that works like a smart itinerary planner tailored just for you.
 
 ---
-
-## 📁 Project Structure
 
